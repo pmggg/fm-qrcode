@@ -18,7 +18,7 @@ Created a clone of the given qr code web design using HTML and CSS.
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/pmggg/fm-qrcode)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://fm-qrcode-iota.vercel.app/)
 
 ## My process
 ### Built with
